@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBinding example</string>
+    <string name="red">RED</string>
+    <string name="blue">BLUE</string>
+</resources>
